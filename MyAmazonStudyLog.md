@@ -37,6 +37,18 @@
 		Temparory Storage -> Instance Store local to host machine itself.
 	- AMI Amazon Machine Image (Provide OS and software with attached storage volumes)
 		
+# Day 4(Amazon Elastic Cloud Computing, EC2)
+	- Instance Types (Little bit, need further study )
+	- Storage (Little bit, need further study)
+
+# Day 5 (Amazon Virtual Private Cloud , VPC)
+	- Route Tables, IPs
+	- Service Groups
+	- NACL(Network access control list)
+	- NAT (Network Address Translation)
+	- DHCP (Dyamic Host COnfiguration Protocol)
+	- 
+	
 	
 	
 	
