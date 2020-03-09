@@ -47,6 +47,8 @@
 	- NACL(Network access control list)
 	- NAT (Network Address Translation)
 	- DHCP (Dyamic Host COnfiguration Protocol)
+	- Excerises Tips:
+		While doing ssh, i have to go and select ppk in Putty , Putty Configuration > Connection > SSH > Auth > "Private key file for authentication"
 	- 
 	
 	
