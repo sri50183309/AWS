@@ -49,7 +49,14 @@
 	- DHCP (Dyamic Host COnfiguration Protocol)
 	- Excerises Tips:
 		While doing ssh, i have to go and select ppk in Putty , Putty Configuration > Connection > SSH > Auth > "Private key file for authentication"
-	- 
+	
+# Day 6 (Review - Amazon EC2, VPC(Day 4 and 5 activity))
+
+# Day 7 (Amazon Storage)
+	- Storage Fundamentals (Different Type of Storage, Design Consideration)
+
+# Day 8 (Amazon Storage Contd)
+
 	
 	
 	
