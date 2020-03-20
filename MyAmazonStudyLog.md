@@ -54,10 +54,26 @@
 
 # Day 7 (Amazon Storage)
 	- Storage Fundamentals (Different Type of Storage, Design Consideration)
+	- CIA Model
 
 # Day 8 (Amazon Storage Contd)
-
+	- EBS Volume, performance
+	- Instance Store
+	- S3
+	- Object facets, tagging
 	
+# Day 9 (Amazon Storage Contd)
+	- Storage Classes
+	- Consistency Model
+	- Encryption concepts
+	- Access Control
+	- Data lake
+	
+# Day 10 (Amazon Storage Contd)
+	- Storage Use cases
+	- AWS Storage gateway options
+	- Performance
+	- EFS
 	
 	
 	
