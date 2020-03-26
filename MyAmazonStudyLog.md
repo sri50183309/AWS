@@ -74,8 +74,22 @@
 	- AWS Storage gateway options
 	- Performance
 	- EFS
-	
-	
+# Day 11 (Hello Databases)
+	- Types of Databases
+	- Characterisitics of relational DB, Scaling, Encryption
+	- Aurora
+# Day 12 (Database Contd)
+	- Non relational DB
+	- Dynamo DB
+	- Indexing in Dynamo (GSI Global Secondary Index, LSI Local Secondary Index)
+# Day 13 (Database contd)
+	- Dynamo DB Stream
+	- ThroughPut/Throtling
+	- Dataware House
+# Day 14 (Database Contd)
+	- Red Shift, Red Shift Spectrum
+	- In Memory Data store (Elastic Cache)
+	- Dynamo DB Accelarator, Amazon Neptune
 	
 				
 				
