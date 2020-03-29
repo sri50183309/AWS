@@ -2,6 +2,7 @@ import boto3
 import json
 import datetime
 
+#Watch out Endpoint - > Its case sensitivie , json dump. I wasted couple of hours and then i realised its point not Point
 
 def date_time_converter(o):
     if isinstance(o, datetime.datetime):
